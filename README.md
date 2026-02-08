@@ -5,6 +5,16 @@ A stunning **3D interactive visualization tool** for exploring code relationship
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
+## 📸 Screenshot
+
+![Code Graph Viewer Screenshot](screenshot.png)
+
+## 🎬 Demo Video
+
+[![Code Graph Viewer Demo](https://img.youtube.com/vi/9bP1oEGEQkk/maxresdefault.jpg)](https://youtu.be/9bP1oEGEQkk)
+
+> Click the image above to watch the demo video on YouTube
+
 ## ✨ Features
 
 - 🎮 **3D Interactive Graph** - Rotate, zoom, and pan with mouse controls
@@ -18,12 +28,12 @@ A stunning **3D interactive visualization tool** for exploring code relationship
 ## 🚀 Quick Start
 
 ### Option 1: GitHub Pages (Recommended)
-Simply visit the live demo: **[https://yourusername.github.io/code-graph-viewer](https://yourusername.github.io/code-graph-viewer)**
+Simply visit the live demo: **[https://koshibaharuki.github.io/code-graph-viewer](https://koshibaharuki.github.io/code-graph-viewer)**
 
 ### Option 2: Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/code-graph-viewer.git
+git clone https://github.com/koshibaharuki/code-graph-viewer.git
 cd code-graph-viewer
 
 # Serve with any static file server
